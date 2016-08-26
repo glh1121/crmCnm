@@ -10,6 +10,7 @@ public class Client {
 		System.out.println("ergoubienaolaozhu ");
 		System.out.println("ergoubienao222222 ");
 		System.out.println("ergoubienaoaddddd ");
+		System.out.println("shabo.......... ");
 	}
 
 }
