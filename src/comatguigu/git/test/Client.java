@@ -11,7 +11,7 @@ public class Client {
 		System.out.println("ergoubienao222222 ");
 		System.out.println("ergoubienaoaddddd ");
 		System.out.println("shabo.......... ");
-		System.out.println("laozhushabozhensha666666666666666666\....................... ");
+		System.out.println("laozhushabozhensha666666666666666666");
 	}
 
 }
