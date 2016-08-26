@@ -7,6 +7,8 @@ public class Client {
 		System.out.println("hello 0407");
 		System.out.println("ergou ");
 		System.out.println("ergoubienao ");
+		System.out.println("ergoubienaolaozhu ");
+		System.out.println("ergoubienao222222 ");
 	}
 
 }
